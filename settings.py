@@ -1,4 +1,4 @@
-APP_URL = "https://2fd82af1-96dd-4e4d-9565-7def0d21c6d5.serverhub.praktikum-services.ru/"
+APP_URL = "https://ed3d48e2-9beb-472e-85ba-d5b824b9012d.serverhub.praktikum-services.ru/"
 COURIER_CREATE = "api/v1/courier"
 ORDER_CREATE = "api/v1/orders"
 ORDER_CHECK = "api/v1/orders/track?t="

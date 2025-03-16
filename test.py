@@ -19,3 +19,6 @@ def test_created_order_by_track():
     url = take_order_url + str(track)
     pull_order = requests.get(url)
     assert pull_order.status_code == 200, f"Expected status code 200, but got {pull_order.status_code}"
+    print("Test - OK")
+
+test_created_order_by_track()
